@@ -5,5 +5,7 @@ json-server可以直接把一个json文件托管成一个具备全RESTful风格�
 
 ```
 npm install -g json-server
+git clone https://github.com/2019-web/mini-edu-lab-server-code.git
+cd mini-edu-lab-server-code
 json-server --watch --port 5300 db.json
 ```
