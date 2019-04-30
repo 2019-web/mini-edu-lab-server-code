@@ -13,3 +13,8 @@ json-server --watch --port 5300 db.json
 ```
 
 > 注意: db.json 内部都是测试数据，你也可以随意修改为自己的数据，方便测试。
+
+```
+# HTTP Get 请求，可以得到图片
+http://localhost:5300/assets/images/course/network.png
+```
