@@ -11,3 +11,5 @@ git clone https://github.com/2019-web/mini-edu-lab-server-code.git
 cd mini-edu-lab-server-code
 json-server --watch --port 5300 db.json
 ```
+
+> 注意: db.json 内部都是测试数据，你也可以随意修改为自己的数据，方便测试。
