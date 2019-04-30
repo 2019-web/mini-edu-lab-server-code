@@ -138,12 +138,12 @@
             "chatbox_id": "ip",
             "text": "IP地址",
             "image_url": "http://example.com/example.png",
-            "type": "teacher",
+            "type": "second-level",
             "message": [{
                 "uuid": "22a738b0-7a98-4d90-b428-2248ce75a1bb",
                 "text": "1111111",
                 "image_url": "http://example.com/example.png",
-                "type": "student"
+                "type": "teacher"
             }, {
                 "uuid": "6b923941-2477-497c-beb1-776f11a2db8e",
                 "text": "222222",
