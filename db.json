@@ -142,12 +142,12 @@
             "message": [{
                 "uuid": "22a738b0-7a98-4d90-b428-2248ce75a1bb",
                 "text": "1111111",
-                "image_url": "http://example.com/example.png",
+                "image_url": "http://localhost:5300/assets/images/user-avatar/0592cae6-6af7-11e9-a923-1681be663d3e/iron-man.jpg",
                 "type": "teacher"
             }, {
                 "uuid": "6b923941-2477-497c-beb1-776f11a2db8e",
                 "text": "222222",
-                "image_url": "http://example.com/example.png",
+                "image_url": "http://localhost:5300/assets/images/user-avatar/0592cfaa-6af7-11e9-a923-1681be663d3e/spider-man.jpg",
                 "type": "student"
             }, {
                 "uuid": "974603d2-cd6d-4bf3-82d0-5554d460ad17",
