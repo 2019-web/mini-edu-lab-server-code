@@ -164,12 +164,12 @@
                 "uuid": "6b923941-2477-497c-beb1-776f11a2db8e",
                 "text": "555555",
                 "image_url": "http://example.com/example.png",
-                "type": "student"
+                "type": "teacher"
             }, {
                 "uuid": "974603d2-cd6d-4bf3-82d0-5554d460ad17",
                 "text": "66666",
                 "image_url": "http://example.com/example.png",
-                "type": "student"
+                "type": "teacher"
             },
             {
                 "uuid": "22a738b0-7a98-4d90-b428-2248ce75a1bb",
@@ -185,7 +185,7 @@
                 "uuid": "974603d2-cd6d-4bf3-82d0-5554d460ad17",
                 "text": "999999",
                 "image_url": "http://example.com/example.png",
-                "type": "student"
+                "type": "teacher"
             },
             {
                 "uuid": "22a738b0-7a98-4d90-b428-2248ce75a1bb",
