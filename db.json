@@ -77,7 +77,15 @@
     ],
     "contents": [{
             "content_id": "network",
-            "contents_name": [{
+            "contents_name": [
+                {
+                    "id": 4,
+                    "text": "网络地址",
+                    "image_url": "http://example.com/example.png",
+                    "type": "first-level",
+                    "chatbox_id": "ip"
+                },
+                {
                     "id": 1,
                     "text": "IP地址",
                     "image_url": "http://example.com/example.png",
@@ -97,12 +105,6 @@
                     "image_url": "http://example.com/example.png",
                     "type": "first-level",
                     "chatbox_id": "tcp"
-                },{
-                    "id": 4,
-                    "text": "网络地址",
-                    "image_url": "http://example.com/example.png",
-                    "type": "first-level",
-                    "chatbox_id": "ip"
                 }
             ]
         },
