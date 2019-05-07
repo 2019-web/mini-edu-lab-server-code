@@ -19,4 +19,4 @@ json-server --watch --port 5300 db.json
 http://localhost:5300/assets/images/course/network.png
 ```
 
-> db.json 里面很多错误的数据，暂时不修改了，仅供参考
+> db.json 里面很多错误的数据，暂时不修改了，仅供参考，可以修改为自己想要的数据
